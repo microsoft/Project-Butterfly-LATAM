@@ -2,7 +2,13 @@
 # Project Butterfly
 <img src="./media/image1.png" style="width:10.99365in;height:5.70764in" />
 
+#      
 ## Opportunity Stages to follow
+#  
+<img src="./media/image1.png" style="width:10.99365in;height:5.70764in" />
+
+# 
+
 <img src="./media/image2.png" style="width:8.94653in;height:2.39861in" />
 
 **Activities:**
@@ -17,7 +23,7 @@
 
 - High level definition of Migration Scope and Opportunity/Lead definition and registration on Partner Connect - SS;
 
-**Key Resources**
+**Key Resources:**
 
 - FY23 Data & AI Partner Play book (“Migrate and modernize your data estate” section)- [Link](https://assetsprod.microsoft.com/en-us/fy23-data-and-ai-azure-playbook-1.pdf)
 
@@ -29,7 +35,7 @@
 
 - Migrate & Modernize Data Estate Pitch Deck-  [Link](https://aka.ms/datamod)
 
-
+# 
 
 <img src="./media/image3.png" style="width:8.98238in;height:2.16672in" alt="A blue screen with white text Description automatically generated with low confidence" />
 
@@ -51,7 +57,7 @@
 
 - Technical/Business proof requirements identified -  TS
 
-**Key Resources**
+**Key Resources:**
 
 - Azure SQL Migration Architecture Center: [link](https://learn.microsoft.com/en-us/azure/architecture/guide/migration/migration-start-here) 
 
@@ -60,3 +66,89 @@
 - Application and Database Modernization Assessment - [Link](https://partner.microsoft.com/en-us/asset/collection/gdpr-solution-assessment)
 
 - Migrate & Modernize Demos - [Link](https://github.com/microsoft/CSAAzureSQLDemo/tree/main/azsql-migration-demos)
+
+# 
+
+<img src="./media/image4.png" style="width:9in;height:2.21111in" />
+
+**Activities:**
+
+- Incorporate technical patterns/practices (ESLZ, CAF, WAF, WMF) to defined Solution - TS
+
+- Partner confirms solution to GPS Tech Team and nominates to AMMP and to SQL Migration Factory (SMF) – SS
+
+- Define, with key customer decision maker, and deploy a functional small‐scale proof of concepts and evaluate the feasibility of the solution and gain a deeper understanding of the solution needs at full scale using Key Resources described bellow and with GPS Tech team guidance and support– TS
+
+- Present results of PoC to customer key stakeholders – SS, TS.
+
+- Gain customer go ahead for proposal – SS
+
+- Create Proposal incorporating AMMP and SMF strategies as a “OneTeam“ with GPS and STU Microsoft teams – SS, TS
+
+**Exit Criteria:**
+
+- High level definition of Migration Scope and Opportunity/Lead definition and registration on Partner Connect - SS;
+
+- Change opportunity status to “Committed” – SS
+
+- Consumption plan with milestones to track progress during project execution – SS, TS
+
+**Key Resources:**
+
+- Migrate (PoC)- Migrate SQL Server to SQL Server on Azure Virtual Machine online using Azure Data Studio- [Link](https://learn.microsoft.com/azure/dms/tutorial-sql-server-to-virtual-machine-online-ads)
+
+- CAF Migration Process - [Link](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/)
+
+- Azure SQL Managed Instance Demo - [Link](https://github.com/microsoft/bobsql/tree/master/demos/sqlmidemo)
+
+- MCW-Migrating-SQL-databases – [Link](https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Migrating%20SQL%20databases%20to%20Azure.md)
+
+- Azure SQL Workshop - [Link](https://github.com/microsoft/sqlworkshops-azuresqlworkshop)
+
+# 
+
+<img src="./media/image5.png" style="width:9in;height:2.25972in" />
+
+**Activities:**
+
+- Partner coordinate the Customer Success Plan execution, defining the kick-off date, consumption, user training, set up a rhythm of the business cadence with the customer for the implementation, and initiate support.  SS, TS
+
+- Perform a technical validation: If needed engage GPS Tech Team and any other Microsoft team to validate the technical solution. - TS
+
+- Develop / Implement recommended practices for operations,  governance, and adoption & organizational change/transformation. \#AzureLandingZone - TS
+
+- Mitigate of any technical blockers that may affect solution implementation - TS
+
+**Exit Criteria:**
+
+- Customer reviewed and endorsed the business value - SS
+
+**Key Resources:**
+
+- Azure SQL Architecture Review - [Link](https://learn.microsoft.com/en-us/azure/architecture/framework/services/data/azure-sql-database-well-architected-framework)  
+  Azure Well-Architected Framework Review – Assessment : [Link](https://learn.microsoft.com/en-us/assessments/azure-architecture-review/)
+
+- Azure Landing Zone User Guide - [Link](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale-Pre-requisites)
+
+# 
+<img src="./media/image6.png" style="width:9in;height:2.34931in" alt="A blue screen with white text Description automatically generated with low confidence" />
+
+**Activities:**
+
+- Drive customer business value achievement and Monitor usage trends and refresh Consumption Plans appropriately - SS
+
+- Analyze digital signals to maintain and optimize customer success (retention) and Proactive backlog review and action new success plans - TS
+
+**Exit Criteria:**
+
+- Final customer acceptance of project delivery
+
+**Key Resources**
+
+- Cloud Adoption Framework Manage – [Link](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/manage/)
+
+- Well Architected Deep-dive - [Link](https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/)
+
+#
+## End of content
+# 
