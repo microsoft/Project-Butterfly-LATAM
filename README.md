@@ -1,13 +1,20 @@
 # Project Butterfly
+   
+## High level view of the Steps to follow
+#  
+<img src="./media/image7.png" style="width:10.99365in;height:4.58333in"
+alt="Project Butterfly High level view of the Steps to follow" />
 
 #      
-## Opportunity Stages to follow
+## Detailed Stages to follow
 #  
-<img src="./media/image1.png" style="width:10.99365in;height:5.70764in" />
+<img src="./media/image1.png" style="width:10.99365in;height:5.70764in"
+alt="Project Butterfly Deatailed Stages to follow" />
 
 # 
 
 <img src="./media/image2.png" style="width:8.94653in;height:2.39861in" />
+
 
 **Activities:**
 
@@ -35,7 +42,7 @@
 
 # 
 
-<img src="./media/image3.png" style="width:8.98238in;height:2.16672in" alt="A blue screen with white text Description automatically generated with low confidence" />
+<img src="./media/image3.png" style="width:8.98238in;height:2.16672in"/>
 
 **Activities:**
 
@@ -67,7 +74,7 @@
 
 # 
 
-<img src="./media/image4.png" style="width:9in;height:2.21111in" />
+<img src="./media/image4.png" style="width:8.98833in;height:2.17863in"/>
 
 **Activities:**
 
@@ -105,7 +112,7 @@
 
 # 
 
-<img src="./media/image5.png" style="width:9in;height:2.25972in" />
+<img src="./media/image5.png" style="width:8.95857in;height:2.24411in" />
 
 **Activities:**
 
@@ -129,7 +136,7 @@
 - Azure Landing Zone User Guide - [Link](https://github.com/Azure/Enterprise-Scale/wiki/Deploying-Enterprise-Scale-Pre-requisites)
 
 # 
-<img src="./media/image6.png" style="width:9in;height:2.34931in" alt="A blue screen with white text Description automatically generated with low confidence" />
+<img src="./media/image6.png" style="width:8.95261in;height:2.32149in" />
 
 **Activities:**
 
