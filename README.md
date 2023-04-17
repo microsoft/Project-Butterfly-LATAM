@@ -1,13 +1,13 @@
 # Project Butterfly
    
 ## High level view of the Steps to follow
-#  
+
 <img src="./media/image7.png" style="width:10.99365in;height:4.58333in"
 alt="Project Butterfly High level view of the Steps to follow" />
 
 #      
 ## Detailed Stages to follow
-#  
+
 <img src="./media/image1.png" style="width:10.99365in;height:5.70764in"
 alt="Project Butterfly Deatailed Stages to follow" />
 
