@@ -1,5 +1,4 @@
 # Project Butterfly
-<img src="./media/image1.png" style="width:10.99365in;height:5.70764in" />
 
 #      
 ## Opportunity Stages to follow
